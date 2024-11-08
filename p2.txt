@@ -1,2 +1,2 @@
 2nd programm output
-fetched data from remote repository to local branch
+fetched data from remote repository to local branch yes
