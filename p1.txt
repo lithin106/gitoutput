@@ -1,1 +1,3 @@
 program 1st output
+stashed changes of prg3
+ok
